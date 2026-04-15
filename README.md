@@ -29,13 +29,6 @@
 
 <img align="left" height="150" src="https://i.imgur.com/Ea8JAcH.jpeg"  />
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kawaiions/Kawaiions/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kawaiions/Kawaiions/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kawaiions/Kawaiions/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
