@@ -27,13 +27,6 @@
 
 ###
 
-<img align="left" height="150" src="https://i.imgur.com/Ea8JAcH.jpeg"  />
-
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Kawaiions/count.svg?"  />
-</div>
+<img align="center" height="150" src="https://i.imgur.com/Ea8JAcH.jpeg"  />
 
 ###
