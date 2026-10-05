@@ -26,7 +26,3 @@
 </div>
 
 ###
-
-<img align="center" height="150" src="https://i.imgur.com/Ea8JAcH.jpeg"  />
-
-###
